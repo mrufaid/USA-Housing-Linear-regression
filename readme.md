@@ -17,8 +17,8 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/kanths028
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/usa-housing-price-prediction.git
-   cd usa-housing-price-prediction
+   git clone https://https://github.com/mrufaid/USA-Housing-Linear-regression
+   cd USA-Housing-Linear-regression
    ```
 
 2. Install the required Python packages:(Not required in google colab)
