@@ -70,8 +70,3 @@ Muhammad Rufaid Peerzada
 ## Contact:
 For any inquiries or feedback, please contact rufaid2k21@gmail.com
 
-
-For any inquiries or feedback, please contact [your email address].
-```
-
-You can customize this README by replacing `[insert information]` with your specific project details and providing the necessary acknowledgments, license information, and contact details. This README provides a basic structure, and you can expand it as needed for your project.
