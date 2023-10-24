@@ -17,7 +17,7 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/kanths028
 1. Clone this repository:
 
    ```bash
-   git clone https://https://github.com/mrufaid/USA-Housing-Linear-regression
+   git clone https://github.com/mrufaid/USA-Housing-Linear-regression
    cd USA-Housing-Linear-regression
    ```
 
