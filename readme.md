@@ -26,7 +26,10 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/kanths028
    ```bash
    pip install -r requirements.txt
    ```
-
+3. Run Python file:
+   ```bash
+   python linear_regresson_pr1_p1
+   ```
 ### Usage
 
 1. Download the dataset from the [Kaggle link](https://www.kaggle.com/datasets/kanths028/usa-housing/) and save it as `USA_Housing.csv` in the root directory of this project.
